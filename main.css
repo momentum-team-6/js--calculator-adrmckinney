@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.calculator-container {
+}
+
+.calculator-cards {
+    width: 40%;
+    margin: 24% auto;
+}
+
+.row-container {
+    display: flex;
+    border: 2px solid black;
+}
+
+.card-container-all {
+    border: 1px solid black;
+    padding: 5%;
+    flex-grow: 1;
+}
+
+.card-container-number{
+    background: limegreen;
+}
+
+.card-container-function {
+    padding: 5%;
+    background: lightgreen;
+}
+
+.c-display {
+}
+
+.top-row {
+    background: limegreen;
+}
+
+.display-box {
+}
+
+.display {
+    
+}
+
+.number-style {
+    
+}
+
+.function-style {
+   
+
+}
